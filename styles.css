@@ -1,0 +1,28 @@
+.header_notice {
+    background-color: yellow;
+    height: 10%;
+}
+
+.header {
+    background-color: #1abc9c!important;
+}
+
+.left-content {
+    background-color: #f1f1f1;
+}
+
+.fakeimg {
+    padding: 0.5rem;
+}
+
+.fakeimg>img {
+    width: 100%;
+}
+
+.head-title>img {
+    height: 20%;
+}
+
+.profileimg {
+    padding: 20px;
+}
